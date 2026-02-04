@@ -1,0 +1,11 @@
+langchain
+langchain-groq
+python-dotenv
+fpdf2
+pypdf
+chromadb
+pdf2image
+pytesseract
+sentence-transformers
+langchain-huggingface
+langchain-community
